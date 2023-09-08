@@ -5,6 +5,7 @@
     display: inline-block;
     text-align: left;
 }
+
 .form__field {
     border: 2px double hsl(254, 87%, 35%);
     border-radius: 4px;
@@ -12,6 +13,7 @@
     padding: 5px;
     text-align: center;
 }
+
 .form__button {
     width: 70%;
     background-color: hsl(240, 60%, 50%);
@@ -19,6 +21,7 @@
     border-radius: 4px;
     border: none;
 }
+
 .form__button--reset {
     background-color: hsl(240, 70%, 50%);
 }
@@ -26,6 +29,7 @@
     background-color: hsl(200, 80%, 50%);
     color: black;
 }
+
 .form__button:active {
     background-color: hsl(200, 72%, 22%);
     color: black;
